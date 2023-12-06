@@ -1,0 +1,39 @@
+h1 {
+    color: blueviolet;
+}
+
+h3 {
+    color: cornflowerblue;
+}
+div {
+    color: green;
+}
+
+.colors-one {
+    display: flex;
+
+}
+
+.colors-two {
+    display: flex;
+    justify-content: end;
+
+}
+
+.colors-three {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.color-four {
+    border: 1px solid gray;
+    padding: 20px;
+    flex: 1;
+    text-align: center;
+}
+
+.colors-four {
+    display: flex;
+
+}
